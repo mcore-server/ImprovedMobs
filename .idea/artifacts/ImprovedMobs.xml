@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ImprovedMobs">
-    <output-path>$USER_HOME$/Desktop/server/</output-path>
-    <root id="archive" name="ImprovedMobs.jar">
-      <element id="library" level="project" name="lombok" />
-    </root>
-  </artifact>
-</component>
