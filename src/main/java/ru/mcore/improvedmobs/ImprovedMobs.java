@@ -31,7 +31,7 @@ public class ImprovedMobs extends JavaPlugin {
         for (Class<?> cls : modules) {
             try {
                 Class<Listener> module = (Class<Listener>) cls;
-                Listener listener = module.getDeclaredConstructor(Listener.class).newInstance();
+                Listener listener = (Listener) module.getConstructors()[0].newInstance();
 
                 Bukkit.getPluginManager().registerEvents(listener, this);
             } catch (Exception ex) {

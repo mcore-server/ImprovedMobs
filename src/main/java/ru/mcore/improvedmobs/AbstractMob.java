@@ -14,6 +14,11 @@ import org.jetbrains.annotations.NotNull;
 import java.util.function.Consumer;
 
 public abstract class AbstractMob implements Listener {
+
+    public AbstractMob(){
+
+    }
+
     protected void lambdaForMobsByEntityType(Consumer<LivingEntity> consumer, EntityType entityType){
         Bukkit.getWorlds().forEach(world -> lambdaForMobsByEntityType(consumer, world, entityType));
     }

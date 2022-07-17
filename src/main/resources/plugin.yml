@@ -1,4 +1,4 @@
-name: ru.mcore.improvedmobs.ImprovedMobs
-main: ru.mcore.improvedmobs.Main
+name: ImprovedMobs
+main: ru.mcore.improvedmobs.ImprovedMobs
 version: 0.0.0
 api-version: 1.19
