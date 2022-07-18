@@ -1,2 +1,2 @@
-# 👾 ru.mcore.improvedmobs.ImprovedMobs
-This plugin improves mobs AI in Minecraft.
+# 👾 ImprovedVanilla
+Better Vanilla! This plugin improbes Mob AI, vanilla chat, adding friends and more.
