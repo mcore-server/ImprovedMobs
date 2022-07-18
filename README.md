@@ -1,2 +1,2 @@
-# 👾 ImprovedVanilla
-Better Vanilla! This plugin improves default vanilla.
+# 👾 MCore Mobs
+Improves mobs AI in Minecraft.
